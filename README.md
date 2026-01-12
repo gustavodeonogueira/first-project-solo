@@ -1,5 +1,9 @@
-ESSE REPOSITORIO TEM POR FINALIDADE MOSTRAR AS HABILIDADES PRATICAS QUE FORAM DESENVOLVIDAS EM ESTUDOS TEORICOS NA ÁREA DE DEVOPS/SRE. 
-SAO EXEMPLOS DE AMBIENTES DE TRABALHO REAIS, TRAZENDO LUCIDEZ E APLICABILIDADE PARA A PARTE TEORICA DO QUE TENHO ESTUDADO.
+This repository aims to showcase the practical skills I developed through theoretical studies in the DevOps/SRE field.
 
-THIS REPOSIORY HAS A OBJECTIVE TO SHOW MY PRATICS SKILLS THAT I LEARNED FROM TEORIC CONTENTS FROM DEVOPS'S/SRE'S COURSES 
-ITS LIKE A REAL WORK FROM THESE PROFESSIONALS, SHOWING MY UNDERSTANDING FROM WHOLE PROCESS.
+It presents examples of real-world working environments, demonstrating my understanding of the entire process.
+
+
+
+Este repositório tem por finalidade mostrar as habilidades práticas que foram desenvolvidas a partir de estudos teóricos na área de DevOps/SRE.
+
+São exemplos de ambientes de trabalho reais, trazendo mais clareza e aplicabilidade à parte teórica do que tenho estudado.
